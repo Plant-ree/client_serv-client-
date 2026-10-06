@@ -19,6 +19,6 @@ The course page in on the [TUM](https://tum.de/) website
 3. Type a temperature
 
 ## Example
-```python
+```cpp
 print("0 C = 32 F")
 ```
